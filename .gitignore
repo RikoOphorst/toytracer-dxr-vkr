@@ -1,0 +1,4 @@
+*.exe
+third_party
+build
+bin
